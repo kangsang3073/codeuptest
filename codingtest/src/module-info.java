@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Kang
+ *
+ */
+module codingtest {
+}
